@@ -11,7 +11,6 @@ This repository contains a case study and analysis of FitBit Fitness Tracker Dat
 - [Results](#results)
 - [Challenges](#challenges)
 - [Conclusion](#conclusion)
-- [Future Work](#future-work)
 
 ## Background
 Bellabeat is a high-tech company manufacturing health-focused smart products. The Bellabeat app, one of their products, collects data on activity, sleep, stress, and reproductive health to empower women with knowledge about their health and habits. This case study analyzes the smart device fitness data to inform Bellabeat's marketing strategy.
