@@ -34,6 +34,3 @@ Data limitations, including missing demographics, a small sample size, and a sho
 ## Conclusion
 The analysis provides valuable insights into user behavior and usage patterns of Bellabeat's smart devices. Bellabeat can use these findings to refine its marketing strategy and better cater to users' needs.
 
-## Future Work
-Future work could involve additional analyses, such as exploring hourly data, conducting user surveys, and incorporating more diverse datasets to enhance the depth of insights.
-
