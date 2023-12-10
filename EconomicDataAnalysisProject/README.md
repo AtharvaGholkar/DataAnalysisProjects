@@ -1,14 +1,12 @@
 # :bar_chart: Economic Data Analysis
 
 ## Table of Contents
-- Project Overview
-- Key Findings
-- Data Source
-- Tools Used
-- Future Work
-- Conclusion
-- Contributing
-- License
+- [Project Overview](#bookmark_tabs-project-overview)
+- [Key Findings](#bulb-key-findings)
+- [Data Source](#file_folder-data-source)
+- [Tools Used](#wrench-tools-used)
+- [Future Work](#rocket-future-work)
+- [Conclusion](#trophy-conclusion)
 
 ## :bookmark_tabs: Project Overview
 This project involves an in-depth analysis of unemployment and participation rates across different states in the US from 2020 to 2022. The data used in this project is sourced from FRED (Federal Reserve Economic Data), which is highly reliable and widely used for economic research.
