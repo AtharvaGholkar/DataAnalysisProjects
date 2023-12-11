@@ -155,7 +155,7 @@ This table contains all of the topping_name values with their corresponding topp
 
  # :speech_balloon: CASE STUDY QUESTIONS
  
-  # :speech_balloon: A. Pizza Metrics
+  # :question: A. Pizza Metrics
   
 1. How many pizzas were ordered?
 2. How many unique customer orders were made?
@@ -168,7 +168,7 @@ This table contains all of the topping_name values with their corresponding topp
 9. What was the total volume of pizzas ordered for each hour of the day?
 10. What was the volume of orders for each day of the week?
 
-# :speech_balloon: B. Runner and Customer Experience
+# :question: B. Runner and Customer Experience
 
 1. How many runners signed up for each 1 week period? (i.e. week starts 2021-01-01)
 2. What was the average time in minutes it took for each runner to arrive at the Pizza Runner HQ to pickup the order?
@@ -178,7 +178,7 @@ This table contains all of the topping_name values with their corresponding topp
 6. What was the average speed for each runner for each delivery and do you notice any trend for these values?
 7. What is the successful delivery percentage for each runner?
 
-# :speech_balloon: C. Ingredient Optimisation
+# :question: C. Ingredient Optimisation
 
 1. What are the standard ingredients for each pizza?
 2. What was the most commonly added extra?
@@ -192,7 +192,7 @@ Meat Lovers - Exclude Cheese, Bacon - Extra Mushroom, Peppers
 For example: "Meat Lovers: 2xBacon, Beef, ... , Salami"
 6. What is the total quantity of each ingredient used in all delivered pizzas sorted by most frequent first?
 
-# :speech_balloon: D. Pricing and Ratings
+# :question: D. Pricing and Ratings
 
 1. If a Meat Lovers pizza costs $12 and Vegetarian costs $10 and there were no charges for changes - how much money has Pizza Runner made so far if there are no delivery fees?
 2. What if there was an additional $1 charge for any pizza extras?
@@ -211,12 +211,12 @@ Average speed
 Total number of pizzas
 5. If a Meat Lovers pizza was $12 and Vegetarian $10 fixed prices with no cost for extras and each runner is paid $0.30 per kilometre traveled - how much money does Pizza Runner have left over after these deliveries?
  
- ## **:dart: INSIGHTS GENERATED**
+ ## **:pencil: INSIGHTS GENERATED**
 1. Most of the successful orders are delivered by Runner ID 1.
 2. The majority of the delivered pizzas had no changes.
 3. The maximum number of pizzas delivered in a single order was 18.
 4. The busiest hour of the day was from 7 pm to 9 pm, and the busiest day of the week was Sunday.
-5. The average time it takes for each runner to arrive at the Pizza Runner HQ to pickup the order is 36 minutes.
+5. The average time it takes for each runner to arrive at the Pizza Runner HQ to pick up the order is 36 minutes.
 6. The longest delivery time was 2 hours and 25 minutes, and the shortest delivery time was 4 minutes.
 7. There was no correlation between the number of pizzas in an order and how long it takes to prepare them.
 8. Most of the customers live within 5-6 km of the HQ.
