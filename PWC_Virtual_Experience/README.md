@@ -7,10 +7,6 @@ If our people could use these tools to solve common problems, they’d help us b
 
 This is why you're here! Our Digital Accelerator programme is an internal chance that takes groups of our employees out of their day jobs and puts them through  training that teaches them skills in technology such as automation, machine learning, design thinking, and digital storytelling. PowerBI is an important part of it as visualising data helps to handle and understand clients.
 
-# PwC Switzerland Power BI in Data Analytics Virtual Case Experience
-
-## Overview
-We aim to build innovative technology solutions that differentiate us from our competitors and digitise the business. Part of that included a strategic decision to invest in upskilling programmes so our people could learn how to use digital tools for data visualisation as well as automation, data cleansing, and more.
 
 ## Tasks
 - [Task 1: Call Centre Trends](#task-1-call-centre-trends)
